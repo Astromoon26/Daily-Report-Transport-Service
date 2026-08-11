@@ -1,0 +1,9 @@
+{
+  "name": "daily-transport-report",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PDF generation for the Daily Transport Service Report (see scripts/render_pdf.js)",
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  }
+}
